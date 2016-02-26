@@ -12,6 +12,8 @@
     'author': 'suifeng',
     'category': 'Account',
     'sequence': 21,
+    'price': 9.9,
+    'currency': 'EUR',
     'website': 'https://www.qdodoo.com',
     'description': """
 点击菜单:会计->表->科目余额表 查询科目余额 \n
