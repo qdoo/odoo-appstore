@@ -9,7 +9,7 @@
 {
     'name': "中国会计-科目余额表",
     'version': '1.1',
-    'author': 'suifeng',
+    'author': 'Qdodoo suifeng',
     'category': 'Account',
     'sequence': 21,
     'price': 9.9,
